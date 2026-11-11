@@ -14,6 +14,12 @@
 
 ## 安装与使用
 
+### 下载并安装
+
+从 [Releases](https://github.com/hx123321/wa-web-translate/releases) 下载插件 ZIP 并解压。在支持 Manifest V3 的 Chrome 中打开 `chrome://extensions`，开启开发者模式，点击“加载已解压的扩展程序”，选择解压后包含 `manifest.json` 的目录。
+
+### 从源码构建
+
 需要 Node.js 20+、pnpm 和支持 Manifest V3 的 Chrome。克隆本仓库后运行：
 
 ```bash
